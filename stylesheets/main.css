@@ -16,6 +16,13 @@ body {
   margin: 0;
   padding-bottom: 56.25%; /* 16:9 */
 }
+
+#info {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
 #video iframe {
   position: absolute;
   top: 0;
