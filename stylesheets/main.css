@@ -24,7 +24,7 @@ body {
 #info {
   position: absolute;
   top: 0;
-  right: 0;
+  left: 50%;
   z-index: 20;
 }
 
