@@ -22,13 +22,13 @@ body {
 }
 
 #info {
-  position: absolute;
+   position: absolute;
    width: 820px;
-   height: 97px;
+   height: 117px;
    left: 50%;
    top: 50%; 
-   margin-left: -300px;
-   margin-top: -300px;
+   margin-left: -410px;
+   margin-top: -410px;
   z-index: 20;
 }
 
